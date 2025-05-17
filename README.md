@@ -1,5 +1,7 @@
 # GNU-Computer_Programming
 ## 경상국립대_컴퓨터프로그래밍 (실습)
+**1st Semester, 2025 / Instructor: Prof. Jum-Sook Lee**
+
 ---
 ### Midterm Exam(2025.04.24.)
 - L01. 디지털 혁명과 컴퓨터
