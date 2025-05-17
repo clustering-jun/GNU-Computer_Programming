@@ -23,7 +23,9 @@
 - L13. 여러 개의 데이터 다루기: 리스트(List)
 
 <br>
+<br>
 
 ---
-### 강좌의 내용 및 목적
-본 강좌에서는 컴퓨터 시스템의 핵심적 요소라고 볼 수 있는 소프트웨어.
+### Course Objectives
+In this course, you will learn about the entire process of developing software, which can be considered a core element of a computer system. You will gain a sense of accomplishment and confidence by implementing the ideas in your mind into a program that the computer can execute and executing it yourself.
+To this end, you will learn the basic grammar and principles of the programming language called 'Python', and practice the process of designing and coding programs through the Python development environment. By gradually and repeatedly performing the process of planning, analyzing, designing, coding, executing, and testing to solve small and simple problems with software, you will acquire the basic skills to utilize programming skills in large and complex fields, and furthermore, it will be helpful to you who will live in the 4th Industrial Revolution era, also called the software revolution era.
