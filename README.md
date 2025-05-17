@@ -1,6 +1,6 @@
 # GNU-Computer_Programming
 ## 경상국립대_컴퓨터프로그래밍
-**1st Semester, 2025  /  Instructor: Prof. Jum-Sook Lee**
+**1st Semester, 2025 / Instructor: Prof. Jum-Sook Lee**
 
 ---
 ### Midterm Exam(2025.04.24.)
