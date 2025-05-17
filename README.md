@@ -28,4 +28,5 @@
 ---
 ### Course Objectives
 In this course, you will learn about the entire process of developing software, which can be considered a core element of a computer system. You will gain a sense of accomplishment and confidence by implementing the ideas in your mind into a program that the computer can execute and executing it yourself.
+
 To this end, you will learn the basic grammar and principles of the programming language called 'Python', and practice the process of designing and coding programs through the Python development environment. By gradually and repeatedly performing the process of planning, analyzing, designing, coding, executing, and testing to solve small and simple problems with software, you will acquire the basic skills to utilize programming skills in large and complex fields, and furthermore, it will be helpful to you who will live in the 4th Industrial Revolution era, also called the software revolution era.
