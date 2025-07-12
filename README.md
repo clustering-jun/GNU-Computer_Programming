@@ -3,7 +3,7 @@
 **1st Semester, 2025 / Instructor: Jum Sook Lee**
 
 ---
-### Midterm Exam (2025.04.24.) scope
+### Midterm Exam scope
 - L01. 디지털 혁명과 컴퓨터
 - L02. 프로그래밍을 위한 준비
 - L03. 프로그래밍의 시작1
@@ -19,7 +19,7 @@
 <br>
 
 ---
-### Final Exam (2025.06.19.) scope
+### Final Exam scope
 - L11-2. 반복 구조로 문제 해결하기
 - L12. 조건 및 반복 구조의 활용
 - L13. 여러 개의 데이터 다루기: 리스트
